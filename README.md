@@ -20,9 +20,8 @@
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/535fc5bb-32d4-4387-8332-cad23e2fc95c)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/f96d47f7-2b7a-4a8a-b72f-3ba7a3a1e89e)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/cf9f2a4e-d613-4f30-8a55-97b69995bf2e)
-
-![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/d7c5927b-e1bb-4ab0-9fb1-258b771f7f87)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/287e2f37-0ef8-436a-9007-3a5c9be06dc4)
+![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/d7c5927b-e1bb-4ab0-9fb1-258b771f7f87)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/894cacb3-6ac1-4801-9153-38f20202c005)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/c2ca8d75-c8ad-4c70-adf5-eabb62ddf121)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/d309e070-db9d-4145-9f03-aa894bc56095)
