@@ -1,4 +1,4 @@
-# Python-Projects
+# Project 1 : Python-Projects
 
 # Hotel Booking Analysis
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/4abd1f83-ada9-43a8-a3e2-6edbc4638431)
@@ -20,7 +20,7 @@
 # 
 # 
 
-# Diwali Sales Analysis
+# Project 2 : Diwali Sales Analysis
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/865d5291-751e-402a-becc-4af46ede26d6)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/00dbffb5-f94a-44a3-a105-5164386e70f6)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/169bd34a-9e2a-4155-8180-b997d145b38c)
