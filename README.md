@@ -14,6 +14,8 @@
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/dfbe0364-5540-4b7d-b63e-a1b2cd05c89e)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/48e600ac-8584-4161-80e5-7dd3d6e5cb46)
 
+
+
 # Hotel Booking Analysis
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/77cf7406-fbc5-4c9c-88d3-1ca94165f98d)
 ![image](https://github.com/AkshayPetkar023/Python-Projects/assets/102145773/e1f8e5db-dc8c-4019-81e9-bb07e2519212)
